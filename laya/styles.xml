@@ -1,0 +1,5 @@
+<res>
+   <item name="res/ui/common_image/btn_green.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ui/start/512.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="res/ui/start/start_text.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+</res>
